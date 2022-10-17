@@ -1,0 +1,15 @@
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.csproj.AssemblyReference.cache
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.AssemblyInfoInputs.cache
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.AssemblyInfo.cs
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\bin\Debug\net6.0\GucBasamaklarıTop.exe
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\bin\Debug\net6.0\GucBasamaklarıTop.deps.json
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\bin\Debug\net6.0\GucBasamaklarıTop.runtimeconfig.json
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\bin\Debug\net6.0\GucBasamaklarıTop.dll
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\bin\Debug\net6.0\GucBasamaklarıTop.pdb
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.dll
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\refint\GucBasamaklarıTop.dll
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.pdb
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\GucBasamaklarıTop.genruntimeconfig.cache
+C:\Users\ibrahim.gun\source\repos\GucBasamaklarıTop\GucBasamaklarıTop\obj\Debug\net6.0\ref\GucBasamaklarıTop.dll
