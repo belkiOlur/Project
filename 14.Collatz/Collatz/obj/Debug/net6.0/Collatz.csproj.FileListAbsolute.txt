@@ -1,0 +1,15 @@
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\bin\Debug\net6.0\Collatz.exe
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\bin\Debug\net6.0\Collatz.deps.json
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\bin\Debug\net6.0\Collatz.runtimeconfig.json
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\bin\Debug\net6.0\Collatz.dll
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\bin\Debug\net6.0\Collatz.pdb
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.csproj.AssemblyReference.cache
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.AssemblyInfoInputs.cache
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.AssemblyInfo.cs
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.dll
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\refint\Collatz.dll
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.pdb
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\Collatz.genruntimeconfig.cache
+C:\Users\ibrahim.gun\source\repos\Collatz\Collatz\obj\Debug\net6.0\ref\Collatz.dll
