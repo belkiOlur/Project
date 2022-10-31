@@ -8,6 +8,8 @@ internal class Program
     ilk:
         double val = 0;
         string gir = "";
+        BigInteger num = 0;
+        BigInteger sonuc = 0;
         Console.WriteLine("İstenilen Sayının Faktöriyel Basamak Sayıları Toplamı ");
         Console.Write("Faktöriyeli Alınacak Sayıyı Giriniz =");
         ConsoleKeyInfo karakter;
@@ -48,13 +50,13 @@ internal class Program
         Console.WriteLine("");
         int x = Convert.ToInt32(gir);
 
-        BigInteger num = bas.fak(x);
+        num = bas.fak(x);
         Console.WriteLine(x + "!  = " + num + "\n");
 
-        BigInteger Sonuc = bas.topla(num);
+        sonuc = bas.topla(num);
 
         Console.WriteLine("*************************************************");
-        Console.WriteLine(x + "! Sayısının Basamakları Toplamı =" + Sonuc);
+        Console.WriteLine(x + "! Sayısının Basamakları Toplamı =" + sonuc);
         Console.WriteLine("*************************************************");
         Console.WriteLine("Tekrar Denemek İçin Bir Tuşa Basınız");
         Console.ReadKey(true);
